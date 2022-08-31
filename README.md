@@ -1,3 +1,3 @@
 # Message spam app
--Sınırsız mesaj gönderme (Spam bot)
+*Sınırsız mesaj gönderme (Spam bot)*
 ![](images/ss.png)
